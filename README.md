@@ -1,3 +1,6 @@
+
+*记录在阅读linux-insides时查找的相关资料。*
+
 linux-insides
 ===============
 
@@ -38,3 +41,5 @@ Author
 ---------------
 
 [@0xAX](https://twitter.com/0xAX)
+
+
